@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageProfil" type="id" />
+    <item name="ButtonEnregister" type="id" />
+    <item name="textViewName" type="id" />
+    <item name="EditTextName" type="id" />
+    <item name="textViewPrenom" type="id" />
+    <item name="EditTextPrenom" type="id" />
+    <item name="textViewClasse" type="id" />
+    <item name="EditTextClasse" type="id" />
+    <item name="TextViewRemarque" type="id" />
+    <item name="LeanerParent" type="id" />
+    <item name="ViewName" type="id" />
+    <item name="EditTextRemarque" type="id" />
+</resources>

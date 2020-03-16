@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstTP</string>
+    <string name="enregister">enregister</string>
+    <string name="nom">Nom :</string>
+    <string name="Prenom">prenom :</string>
+    <string name="Classe">Classe :</string>
+    <string name="Remarque">Remarque :</string>
+</resources>
